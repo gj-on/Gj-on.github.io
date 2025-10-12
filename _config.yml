@@ -17,8 +17,8 @@ title: Gabriel Jones
 description: Benvenuti nel mio blog, qui vi racconto di tutto e di più!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gj-on.github.io" # the base hostname & protocol for your site
-github_repo: gj-on.github.io # the GitHub repo name for your project
-github_username: gj-on
+github_repo: Esempio # the GitHub repo name for your project
+github_username: Esempio
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
