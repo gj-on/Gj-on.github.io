@@ -2,7 +2,7 @@
 layout: post
 title:  "Il mio inizio all’oratorio: persone e valori che mi ispirano"
 date:   2022-10-20
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Ultimamente ho iniziato ad andare all’**oratorio** e devo dire che mi piace molto. Non è solo un posto dove passare il tempo, ma è diventato un ambiente dove posso conoscere persone che davvero contano e che mi stanno aiutando a crescere.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ho seguito il Grest e preparerò una relazione"
 date:   2024-07-15
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 A luglio ho deciso di dedicare parte delle mie vacanze al **Grest**, un’esperienza che mi ha coinvolto parecchio. Per chi non lo sapesse, il Grest (Gruppo Estivo) è un'attività organizzata da molte parrocchie, dove i ragazzi si riuniscono per giochi, attività, laboratori creativi e momenti di crescita personale.

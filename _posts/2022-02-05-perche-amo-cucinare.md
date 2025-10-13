@@ -2,7 +2,7 @@
 layout: post
 title:  "Perché amo cucinare"
 date:   2022-02-05
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Una cosa che ho scoperto di amare molto è **cucinare**. Non perché voglio diventare uno chef o cose complicate, ma perché cucinare per me è un modo per **distrarmi dal mondo** e dedicarmi a qualcosa di semplice e creativo.

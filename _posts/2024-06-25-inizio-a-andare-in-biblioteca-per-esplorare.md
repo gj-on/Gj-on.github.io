@@ -2,7 +2,7 @@
 layout: post
 title:  "Ho iniziato ad andare in biblioteca per esplorare il mondo delle biblioteche"
 date:   2024-06-25
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 A giugno, tra una cosa e l’altra, ho deciso di fare qualcosa di diverso: **iniziare a frequentare la biblioteca**. Non so bene perché, ma mi è venuta voglia di esplorare questo mondo che, fino ad ora, avevo sempre visto da lontano. Probabilmente anche per scoprire nuove letture, ma anche per capire meglio come funziona una biblioteca, come sono organizzati i libri, e cosa c’è dietro alla gestione di un luogo così importante.

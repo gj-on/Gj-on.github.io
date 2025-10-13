@@ -2,7 +2,7 @@
 layout: post
 title:  "Una critica ai siti istituzionali"
 date:   2022-09-20
-categories: informatica
+categories: Informatica
 ---
 
 I siti istituzionali dovrebbero essere un punto di riferimento chiaro e accessibile per tutti, ma spesso mi capita di notare che sono invece piuttosto difficili da usare e poco invitanti.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Comunicazione importante: trasferimento del sito da gabryblog.it a gabrieljones.it"
 date:   2022-09-15
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Gentili visitatori,

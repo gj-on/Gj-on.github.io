@@ -2,7 +2,7 @@
 layout: post
 title:  "Le mie vacanze di Natale 2021"
 date:   2022-01-10
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Durante le vacanze di Natale non ho fatto grandi viaggi o cose particolari, ma mi sono dedicato a qualche attività tranquilla e utile. Prima di tutto, ho approfittato del tempo libero per **ordinare un po’ i miei file** sul computer, mettendo tutto in cartelle e cercando di sistemare meglio i progetti a cui stavo lavorando. È stato faticoso, ma alla fine è stato bello trovare tutto più organizzato.

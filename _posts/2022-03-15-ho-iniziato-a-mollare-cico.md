@@ -2,7 +2,7 @@
 layout: post
 title:  "Ho iniziato a prendermi cura del mio cane Cico"
 date:   2022-03-15
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Da qualche tempo ho iniziato a dedicare più tempo e attenzione al mio cane, Cico. Non so se sia solo una fase, ma mi sono reso conto che stare con lui mi fa stare bene e mi aiuta a distrarmi un po’ da tutto il resto.

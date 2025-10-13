@@ -2,7 +2,7 @@
 layout: post
 title:  "Vacanze di Natale e Capodanno: tra relax e informatica"
 date:   2023-12-30
-categories: Personal Blogging
+categories: PersonalBlogging
 ---
 
 Quest’anno le vacanze di Natale e Capodanno sono state un mix di **relax** e **sperimentazione**. Invece di passare tutto il tempo a guardare film o uscire con gli amici, ho dedicato molte ore a riflettere sul mio percorso in informatica e a lavorare su alcuni piccoli progetti.
