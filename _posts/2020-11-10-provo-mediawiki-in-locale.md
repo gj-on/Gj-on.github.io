@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho provato a usare MediaWiki in locale!"
 date:   2020-11-10
+categories: Informatica
 ---
 
 In questi giorni mi è venuta una pazza idea: **e se provassi a fare un mio mini-Wikipedia?** 😂 Allora ho scoperto che il software che usa Wikipedia si chiama **MediaWiki**, e si può **scaricare e installare in locale**! Non è proprio semplicissimo come aprire un file `.html`, ma mi sono divertito un sacco a provare.

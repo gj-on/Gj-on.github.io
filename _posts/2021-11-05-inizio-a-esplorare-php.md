@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho iniziato a esplorare PHP"
 date:   2021-11-05
+categories: Informatica
 ---
 
 Ultimamente ho deciso di provare a imparare qualcosa di nuovo e ho iniziato a esplorare **PHP**, un linguaggio che si usa tanto per fare siti web dinamici. Fino a ora avevo fatto solo HTML e CSS, ma volevo capire come si fa a far interagire il sito con il server, e PHP è uno dei modi per farlo.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho installato XAMPP e fatto un piccolo sito in locale"
 date:   2021-01-15
+categories: Informatica
 ---
 
 Da poco ho scoperto **XAMPP**, un programma che ti mette su un server web completo direttamente sul tuo computer, senza dover fare configurazioni difficili. Ho deciso di provarlo sul mio PC, così posso creare siti in locale e vederli come se fossero online, ma solo per me.

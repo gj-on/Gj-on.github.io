@@ -2,6 +2,7 @@
 layout: post
 title:  "Sto iniziando a capire l'HTML (e un po' di CSS)"
 date:   2020-06-03
+categories: Informatica
 ---
 
 Da qualche giorno mi è venuta la curiosità di capire come funzionano i siti web, tipo cosa c’è dietro quando apri una pagina su internet. All’inizio pensavo fosse una cosa super complicata, tipo roba da esperti, ma poi ho scoperto che si può iniziare con qualcosa di semplice: l’HTML. Ho guardato qualche video e letto due guide online, e ho provato a scrivere il mio primo file `.html`. È strano ma anche bellissimo vedere che se scrivi `<h1>` poi ti esce un titolo gigante sullo schermo! 😄 Ho anche scoperto che c’è il CSS, che ti fa cambiare i colori, i font, puoi mettere lo sfondo, fare tutto più carino... e sto provando a combinare le due cose insieme. Non è facile ma è una figata!

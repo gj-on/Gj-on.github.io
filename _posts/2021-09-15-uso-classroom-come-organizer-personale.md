@@ -2,6 +2,8 @@
 layout: post
 title:  "Uso Google Classroom per organizzare i miei file e video"
 date:   2021-09-15
+categories: Informatica
+
 ---
 
 Anche se Google Classroom è pensato per la scuola, io ho deciso di usarlo in modo diverso: come una specie di **organizer personale** per tenere insieme tutti i miei file, video e appunti.  

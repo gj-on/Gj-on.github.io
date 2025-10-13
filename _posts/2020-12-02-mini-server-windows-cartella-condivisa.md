@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho trasformato il mio vecchio PC in un piccolo server!"
 date:   2020-12-02
+categories: Informatica
 ---
 
 Qualche giorno fa ho guardato il mio vecchio computer del 2014 (che era lentissimo e non lo usavo più da un sacco) e mi sono chiesto: **"ma posso farci qualcosa di utile?"**. E boom! Mi è venuta l’idea di trasformarlo in un **mini server casalingo**, almeno per fare esperimenti. 😄 Non tipo server da internet, eh, ma una cosa semplice: **una cartella condivisa in rete** che posso aprire anche dal mio portatile.

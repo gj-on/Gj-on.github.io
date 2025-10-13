@@ -2,6 +2,7 @@
 layout: post
 title:  "Edmodo non mi piace molto (ma non è una cosa di informatica)"
 date:   2021-09-01
+categories: Informatica
 ---
 
 Devo essere sincero: ho provato a usare **Edmodo** e non mi ha convinto molto.  

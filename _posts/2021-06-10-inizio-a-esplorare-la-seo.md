@@ -2,6 +2,7 @@
 layout: post
 title:  "Sto iniziando a esplorare la SEO"
 date:   2021-06-10
+categories: Informatica
 ---
 
 Ultimamente ho iniziato a interessarmi a qualcosa di molto importante per chi fa siti web: la **SEO**, cioè l’ottimizzazione per i motori di ricerca. In pratica, è tutto quello che puoi fare per far sì che il tuo sito venga trovato facilmente su Google e sugli altri motori.

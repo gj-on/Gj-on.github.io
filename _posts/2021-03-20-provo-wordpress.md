@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho provato WordPress su Altervista, ma non mi ha convinto molto"
 date:   2021-03-20
+categories: Informatica
 ---
 
 Ultimamente ho voluto provare qualcosa di nuovo e ho deciso di mettere alla prova **WordPress** tramite **Altervista**, una piattaforma che ti permette di creare un sito gratis online senza dover configurare server o altro. L’idea era carina, perché WordPress è famoso e ha tantissimi temi e plugin, quindi mi aspettavo fosse facile fare un sito carino in poco tempo.
