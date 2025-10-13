@@ -2,6 +2,7 @@
 layout: post
 title:  "Ho spento il server locale e spostato il sito su Altervista, con protezione PHP"
 date:   2022-01-20
+categories: writing
 ---
 
 Dopo un po’ di tempo che avevo il mio server locale acceso per fare esperimenti, ho deciso di spegnerlo e organizzare meglio i miei file. Ho spostato tutto su un **hard disk esterno**, così ho una specie di backup sempre a portata di mano, senza dover tenere acceso il computer vecchio.
