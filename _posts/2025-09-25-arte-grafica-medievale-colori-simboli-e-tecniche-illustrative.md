@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: post
 title:  "Arte grafica medievale: colori, simboli e tecniche illustrative"
 date:   2025-09-25
 categories: grafica
