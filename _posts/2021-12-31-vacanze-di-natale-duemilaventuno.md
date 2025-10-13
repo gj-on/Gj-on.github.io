@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le mie vacanze di Natale 2021"
-date:   2021-31-31
+date:   2021-12-31
 categories: PersonalBlogging
 ---
 
@@ -12,4 +12,5 @@ Ho anche passato un po’ di tempo a guardare qualche serie su **Netflix**, cos�
 Ma non ho mica smesso di esplorare il mondo dell’informatica! Ho continuato a studiare e provare cose nuove, come imparare un po’ di codice, capire meglio come funzionano i siti web e giocare con i linguaggi che mi piacciono. Le vacanze sono state un buon momento per unire relax e studio, e mi sento più motivato che mai a migliorare ancora.
 
 E voi? Come avete passato le vacanze?  
+
 [ Totale Commenti "3"; Totale like "61"; Totale accessi "2"]
