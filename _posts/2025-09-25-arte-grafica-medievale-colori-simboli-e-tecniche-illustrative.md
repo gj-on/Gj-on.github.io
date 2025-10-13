@@ -2,6 +2,7 @@
 layout: post
 title:  "Arte grafica medievale: colori, simboli e tecniche illustrative"
 date:   2025-09-25
+categories: Personal Blogging
 ---
 **1. Introduzione**
 Ok, lo so, quando si pensa all’arte medievale spesso viene in mente solo roba vecchia, roba “antica” e un po’ pesante. Ma in realtà, se ti fermi a guardare davvero, l’arte medievale è una figata pazzesca, soprattutto dal punto di vista grafico e illustrativo. Parliamo di uno stile che ha dominato per secoli, tra il V e il XV secolo, e che ha creato immagini che non erano fatte per sembrare “realistiche” come oggi, ma per raccontare storie, trasmettere messaggi religiosi e sociali in modo chiaro e potente. È un’arte che parla con simboli, colori forti e forme molto precise, quasi come un linguaggio visivo tutto suo, che ancora oggi può insegnarci un sacco su come comunicare con le immagini.
